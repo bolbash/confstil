@@ -7,7 +7,7 @@ import { connect } from 'cloudflare:sockets';
 let userID = '76eab2c7-ce4d-47dc-a0b6-7151dfa08eb0';
 let proxyIP = "146.70.175.165";
 
-let dohURL = 'https://sky.rethinkdns.com/1:-Pf_____9_8A_AMAIgE8kMABVDDmKOHTAKg='; // https://cloudflare-dns.com/dns-query or https://dns.google/dns-query
+let dohURL = 'https://8.8.8.8/dns-query'; // https://cloudflare-dns.com/dns-query or https://dns.google/dns-query
 
 // v2board api environment variables
 let nodeId = ''; // 1
